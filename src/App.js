@@ -151,7 +151,7 @@ function App() {
       ))}
 
       <TechTable />
-
+      <footer>Подгорнова Дарья Максимовна 10Д</footer>
     </div>
   );
 }
